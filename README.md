@@ -6,6 +6,7 @@ Made in **22/01/2021**.
 #### This assignment was a real challenge and I learned a lot. :muscle:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='40'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='40'/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='40'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' width='40'/>
 #### You can see my website in [this link](https://lorismilloni.github.io/study-project-shopping-cart/).
 
 #### Trybe has a private repository with files that can't be shared. So here is my commit history print:
