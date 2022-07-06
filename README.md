@@ -2,7 +2,8 @@
 Made in **22/01/2021**.
 
 ## In this project I've developed a shopping cart with HTTP requests to an Application Programming Interface from a Latin America famous online store.
-#### The goal was to exhibit selling products that were available requesting the API, and use my knowledge in JavaScript and HTML (with DOM) to add products to cart, add his values and remove products from cart. This assignment was a real challenge and I learned a lot. :muscle:
+#### The goal was to exhibit selling products that were available requesting the API, and use my knowledge in JavaScript and HTML (with DOM) to add products to cart, add his values and remove products from cart. We also learned how to use async functions, and implemented unit tests.
+#### This assignment was a real challenge and I learned a lot. :muscle:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='40'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='40'/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='40'/>
 #### You can see my website in [this link](https://lorismilloni.github.io/study-project-shopping-cart/).
